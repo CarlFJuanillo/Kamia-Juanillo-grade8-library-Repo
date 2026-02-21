@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kamia-juanillo-library-d-3d155",
+  "private_key_id": "6a8b16464ee98e6373f9b51f159cf78495cc709f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaj/sYlu/qUFfC\n5pRqAmocPUauzkbrTW7Grp8s+56hPRyhtCvxC1q7/tjAHI9vEHNCgLJ++W22ooHp\ndh8rB6L6EbbFCS4qbV/8Tgjo5hFP1MnEW+hXGX7dVH/aE8r39+54KvxTddZ1VnGw\n47nKo01LMdYEzhVDHBg2bNfYq8wH+tzmYGlIJZNkARsxXjrKqgGAY6K73KDDjrLW\nVchRi5EHMjv8SReNHP+9KFfasRFbfc5pLuY3TJIg60kmm3tY8H/isnAUU7piNlz/\nRPlV51Fz5i3gUI5QsDJn0oUF0xGUD3q2lXia1fGZ8+nZbzoDHRMThU+FrgZltcIw\nfNESCKPVAgMBAAECggEAJSioBeb5jLKSrTADKR/Wdw0i9IrdC1nbnNto9B6mel7X\nvJVTiDSIPWCnbMgeScF3+yVC06woD05DPJRI2cm/V3lGA+ta5js4v75rrN8ar+Ir\nWJ9QmehbhZk9cG//iNel+1fBlRX6e3ISO8MH3jAT7tYe/yujeUiwRCaOrweMVYms\navHgf5Pwx1dbI8e+AspxFYMSAvSpifnvVODVNtsyldkEFlYOrId8S8FlbTeGAKWi\nOAnamnGF30x6Fy740XyJ8pYK2up0Ng7v7UT5JIIquDRWXrmrqpxgHRXVjQh0W551\nlOn2wPY4nc64OcmBJKA1NHgehQFI4lSFgGzq+66QUQKBgQDyMb6zz47/N5Sn6W8E\n1mwvxF8n567LvVgAmpwMRjDqO3pQcbjxPbMz/PVlrvatWPzmWRXvPikI6Job9aDI\n0mYpK4nKDP5SJrcstf2ACWu4/PE/61jKmeyjC+J5zP8jcGKOI5BhMA8THI9321QE\nBrCkMZOufQ10DkozmHnz2JFyxQKBgQDnBWJZZD6kmDjb6KbKanyOm0SZM7UnIVNS\nj7h4AOQHoZWnSLwROmSFchPYJIDfNmtnhxG9zBwFf8lEUAYNkrcKD2oBB77uZHht\nqqV5jUo1wjfCE+pAaFdonJYklCCHFhhpMPETa8nQXWoBLqSJp4spQbXS407PSwtQ\n586tWj090QKBgGkUMBsviGkuoi6f1u0QYuvulSJpIKuAwPeyHNYudfaKS60vSgBQ\ntrltnMK7QIdBPqhqKlwcag1VbdeHoHTA5FYkb6ncLVNTPNIHO68bZ0NhawJCh8mP\nMt4iv+X8jQ3BKuFkiLXB9ihikdR8slz00hrK77oaw4WA1azBENg9NA3JAoGAUz9d\ncVjuOeGgm536fHZi7ACHd61qWe9oVxfzIUsw4I8Znm5XVt3z2yKAhCKjTcwOaAAE\nJKCoeFLT9AniJIH582YajMR9yOnre5lCh8qiMz0JWqZSg2MWHFxQvl2iWwtbQIyi\nUp1E3BDNYh+squ3096j2HEhM3eXs7fqaP12FNAECgYEAmy+pumisiIBUrgeQUvnq\nL3axrfH4W7i+zTUR7klrjXzg4Ql7TKiy6dQfE0ypbMGwS0Du/nVd9sT633e3KYE4\naRAdzo4Ma6bcExGEp+5Io/8llKC7bgohyps9HMFyuxXOxsFOT/PQgszVbbR8gJJ6\ntpTCuuzuY/EM3332roHZzDk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@kamia-juanillo-library-d-3d155.iam.gserviceaccount.com",
+  "client_id": "114219381244693769664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40kamia-juanillo-library-d-3d155.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
